@@ -10,7 +10,7 @@ namespace exercicio_10
             InitializeComponent();
             passwordcerta = "password";
         }
-
+        //olá
         private void button1_Click(object sender, EventArgs e)
         {
             password = Interaction.InputBox("Por favor, insira a palavra passe:", "Input Box");
